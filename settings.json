@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "KakarotSMP.aternos.me:",
+    "ip": "KakarotSMP.aternos.me",
     "port": 21135,
     "version": "",
     "try-creative": false
