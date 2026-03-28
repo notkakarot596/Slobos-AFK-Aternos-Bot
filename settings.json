@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "KakarotSMP.aternos.me:21135",
+    "port": 21135,
     "version": "",
     "try-creative": false
   },
